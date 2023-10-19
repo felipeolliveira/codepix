@@ -1,6 +1,6 @@
 # Codepix
 
-This is a study project that simulates bank transactions through Pix.
+This is a study project that simulates bank transactions through PIX (A brazilian transactions system).
 
 ## Tools
 
