@@ -5,5 +5,5 @@ This is a study project that simulates bank transactions through Pix.
 ## Tools
 
 - Golang: Codepix microservice
-- NEXTJS: Frontend of Fictitious Banks
-- Nestjs: Backend of fictitious banks
+- NextJs: Frontend of fake banks
+- NestJs: Backend of fake banks
